@@ -53,7 +53,7 @@ Ein professionelles Tool zur Überprüfung von Wallet-Adressen auf verschiedenen
 
 ```bash
 # Repository klonen
-git clone https://github.com/oaset24/wallet-network-checker.git
+git clone https://github.com/oaset24/chain-guard.git
 cd wallet-network-checker
 
 # Dependencies installieren

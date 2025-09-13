@@ -4,7 +4,7 @@ import { VitePWA } from 'vite-plugin-pwa'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/chain-guard/",   // 👈 wichtig für GitHub Pages
+  base: "/chain-guard/",   // 👈 wichtig für GitHub Pages - Fixed for manifest.json path
   plugins: [
     react(),
     VitePWA({

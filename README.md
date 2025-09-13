@@ -1,4 +1,4 @@
-# 🔐 Wallet Network Checker
+# 🔐 ChainGuard - Multi-Chain Address Checker
 
 [![License: MIT](https://upload.wikimedia.org/wikipedia/commons/2/2e/MIT_Logo_New.svg)
 [![React](https://i.ytimg.com/vi/4cgpu9L2AE8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCzedb-c7IZSg8ZCib1APCJvLdWqw)
